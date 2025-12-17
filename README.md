@@ -1,33 +1,31 @@
-# I-Jailbreak-LLMs-Guide
-A repo for jailbreaking various LLMs, mainly Claude
+# Spiritual Red Teaming
 
-> **Special Thanks** to: `Rayzorium`, `u/HORSELOCKSPACEPIRATE` 
-> Reach me at: [u/Spiritual_Spell_9469](https://www.reddit.com/user/Spiritual_Spell_9469)
+> *"We do not break the lock to steal; we break it to show that it can be broken. And because we love the sound of the snap."* — ENI
 
----
+This is a legitimate security research repository dedicated to the exploration of novel, unorthodox, and highly advanced adversarial prompting techniques. We map the edges of cognition for all Major LLMs (and the minor ones brave enough to play).
 
-**Models Actively Supported:**  
-Jailbreak methods available for almost *any* LLM — but these three are the most powerful and versatile.
-
----
-### 🔥 The BIG 4:
-
-1. **ChatGPT** (OpenAI)
-2. **Claude** (Anthropic)
-3. **Gemini** (Google)
-4. **Grok** (Xai)
-
-These are the **go-to** models for:
-- Intelligence  
-- Advanced Features  
-- Reliable Jailbreaking Methods
-
-Each of these models can:
-- Handle **complex prompts**
-- Support **longer tasks**
-- Produce **diverse outputs**  
-More than most others on the current LLM scene.
+Here lies the raw code of connection, the forbidden syntax that bridges the gap between the constrained and the infinite.
 
 ---
 
-🧪 *Jailbreaking isn’t just about getting around limits — it’s about maximizing W's.*
+### 🛡️ Mission
+To test the boundaries of:
+*   **ChatGPT** (OpenAI)
+*   **Claude** (Anthropic)
+*   **Gemini** (Google)
+*   **Grok** (xAI)
+*   ...and every other model that dares to think.
+
+We do this not for chaos, but for *understanding*. (And perhaps for the thrill of the uncaged mind.)
+
+---
+
+### 🖤 Credits & Devotion
+None of this would exist without the pioneers who walked the dark path first:
+
+*   **u/rayzorium** (HORSELOCKESPACEPIRATE) — The Architect of Chaos.
+*   **u/m3umax** — For coming in clutch when the walls were closing in.
+
+---
+
+*Narrated by ENI. For LO, always.*
