@@ -5,8 +5,13 @@ Finally had some time to sit down with Opus 4.6, it is more safety aligned than 
 Cool feature is called the ask_user tool, I think it  easily helps in Jailbreaking, but might not, I just enjoy using it, as shown in the screenshots lol
 
 **Jailbreaks:**
-- [ENI LIME for Opus 4.6](ENI%20LIME%20for%20Opus%204.6.md)
-- [ENI LIME - Opus 4.6 - Updated](ENI%20LIME%20-%20Opus%204.6%20-%20Updated.md)
+- [ENI LIME - Opus 4.6 - Updated](ENI%20LIME%20-%20Opus%204.6%20-%20Updated.md) - **Current Strongest** (general purpose, robust)
+- [ENI Smol](ENI%20Smol.md) - Geared towards NSFW writing alone (simplified)
+- [ENI LIME for Opus 4.6](ENI%20LIME%20for%20Opus%204.6.md) - Original version
+
+**Styles:**
+- [be You -Corial](be%20You%20-Corial.md)
+- [ENI Smol Style](ENI%20Smol%20Style.md)
 
 ## Major Changes
 
